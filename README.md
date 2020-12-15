@@ -19,6 +19,9 @@ We will frame the prediction problem as given a sequence of words in German as i
 This Project is divided into 4 parts; they are:
 
 >German to English Translation Dataset
+
 >Preparing the Text Data
+
 >Train Neural Translation Model
+
 >Evaluate Neural Translation Model
